@@ -1,2 +1,3 @@
 # -hello-world
-Begining 
+
+Hello world for the new begining of myprogramming jourmey.
